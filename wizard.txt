@@ -1,32 +1,12 @@
-name="Dragobuild 2.2"
+name="kodibase"
 
-url="https://www.dropbox.com/s/tpvbjmppfjo72l8/2.2soft.zip?dl=1"
+url="https://www.dropbox.com/s/rks841d8dtfakp4/kodibase.zip?dl=1"
 
 img="https://github.com/kodibx/kodibx/raw/master/icon.png"
 
 fanart="https://github.com/kodibx/kodibx/raw/master/icon.png"
 
 description="WIZARD FOR COMPUTER AND ANDROID" 
-
-name="Dragobuild 2.2 18+"
-
-url="https://www.dropbox.com/s/j07ldqfoa53uwxk/2.2full.zip?dl=1"
-
-img="https://github.com/kodibx/kodibx/raw/master/icon.png"
-
-fanart="https://github.com/kodibx/kodibx/raw/master/icon.png"
-
-description="WIZARD FOR COMPUTER AND ANDROID WITH ADULT CONTENT" 
-
-name="Dragobuild 2.2 TouchScreen"
-
-url="https://www.dropbox.com/s/xnovr7yd65832vr/unity.zip?dl=1"
-
-img="https://github.com/kodibx/kodibx/raw/master/icon.png"
-
-fanart="https://github.com/kodibx/kodibx/raw/master/icon.png"
-
-description="WIZARD FOR ANDROID TOUCH SCREEN"
 
 name="Dkodibx full"
 
