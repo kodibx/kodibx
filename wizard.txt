@@ -1,22 +1,15 @@
-name="kodibase"
+name="Bb2M.Clean"
+version="1.0.1"
+url="https://www.dropbox.com/s/uwffosoicqn09sl/Bb2BWizard.Clean.zip?dl=1"
+gui="http://"
+kodi="17.4"
+theme="http://"
+icon="https://www.dropbox.com/s/cz5breeayo1bo0q/icon.png?dl=1"
+fanart="https://www.dropbox.com/s/kg4xtm7wtfqper3/greentext%281%29.jpg?dl=1"
+preview="http://"
+adult="no"
+description="Kodi 17 Clean Build"
 
-url="https://www.dropbox.com/s/rks841d8dtfakp4/kodibase.zip?dl=1"
-
-img="https://github.com/kodibx/kodibx/raw/master/icon.png"
-
-fanart="https://github.com/kodibx/kodibx/raw/master/icon.png"
-
-description="WIZARD FOR COMPUTER AND ANDROID" 
-
-name="Dkodibx full"
-
-url="https://www.dropbox.com/s/72dm37ab5yo8mt4/kodifull.zip?dl=1"
-
-img="https://github.com/kodibx/kodibx/raw/master/icon.png"
-
-fanart="https://github.com/kodibx/kodibx/raw/master/icon.png"
-
-description="WIZARD FOR ANDROID TOUCH SCREEN"
 
 
 
