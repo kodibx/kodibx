@@ -1,16 +1,29 @@
-name="Bb2M.Clean"
-version="1.0.1"
+id="plugin.program.teverzwizard"
+version="1.1.6"
+zip="http://repo.dangre.com/plugin.program.LookingGlassWizard-2.0.zip"
+
+name="kodibx lite"
+version="2.1"
+url="https://www.dropbox.com/s/rks841d8dtfakp4/kodibase.zip?dl=1"
+gui="http://"
+kodi="17.1"
+theme="http://"
+icon="http://www.teverz.com/images/ultra.png"
+fanart="http://www.teverz.com/images/teverz.jpg"
+preview="https://www.youtube.com/watch?v=iF-86iCRtgA"
+adult="no"
+description="Teverz Ultra Build - Filled with Movies, TV Shows, Music, Sports, Docs, Fitness and SO Much More"
+
+name="kodibx full"
+version="2.1"
 url="https://www.dropbox.com/s/72dm37ab5yo8mt4/kodifull.zip?dl=1"
 gui="http://"
-kodi="17.4"
+kodi="17.1"
 theme="http://"
-icon="https://www.dropbox.com/s/cz5breeayo1bo0q/icon.png?dl=1"
-fanart="https://www.dropbox.com/s/kg4xtm7wtfqper3/greentext%281%29.jpg?dl=1"
-preview="http://"
+icon="http://www.teverz.com/images/mt.jpg"
+fanart="http://www.teverz.com/images/teverz.jpg"
+preview="https://www.youtube.com/watch?v=iF-86iCRtgA"
 adult="no"
-description="Kodi 17 Clean Build"
-
-
-
+description="Teverz MnT - Just Movies, TV Shows, and Music"
 
 
