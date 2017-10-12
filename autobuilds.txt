@@ -1,6 +1,6 @@
-id="plugin.program.wolfcreations"
-version="1.0.0"
-zip="https://raw.githubusercontent.com/wadeknelsen/wolfcreations/master/zips/wolfcreations.zip"
+id="plugin.program.kodibx"
+version="1.1.4"
+zip="https://github.com/kodibx/kodi-xbmc-addons/blob/master/repo/plugin.program.kodibx/plugin.program.kodibx-1.1.4.zip"
 
 name="Test build 1"
 version="0.2"
