@@ -26,5 +26,15 @@ preview="https://github.com/kodibx/repository.kodibx/raw/master/fanart.jpg"
 adult="no"
 description="kodibx complet"
 
-
+name="kodibx lite"
+version="1.2"
+url="https://www.dropbox.com/s/sflzn5h40ysmmqz/Kodi_17.4_base_kodibx_Ver_1.2.zip.zip?dl=1"
+gui="http://"
+kodi="17.4"
+theme="http://"
+icon="https://github.com/kodibx/repository.kodibx/raw/master/icon.png"
+fanart="https://github.com/kodibx/repository.kodibx/raw/master/fanart.jpg"
+preview=""
+adult="no"
+description="kodibx lite 1.2"
 
