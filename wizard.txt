@@ -1,6 +1,6 @@
-id="plugin.program.teverzwizard"
-version="1.1.6"
-zip="http://repo.dangre.com/plugin.program.LookingGlassWizard-2.0.zip"
+id="plugin.program.kodibx"
+version="1.1.4"
+zip="https://github.com/kodibx/kodi-xbmc-addons/blob/master/repo/plugin.program.kodibx/plugin.program.kodibx-1.1.4.zip"
 
 name="kodibx lite"
 version="2.1"
