@@ -16,7 +16,7 @@ description="kodibx lite"
 
 name="kodibx full"
 version="2.6"
-url="https://gtw9695.phpnet.org/stats/Kodi_17.4_full_kodi_Ver_2.6.zip"
+url="http://gtw9695.phpnet.org/stats/Kodi_17.4_full_kodi_Ver_2.6.zip"
 gui="http://"
 kodi="17.4"
 theme="http://"
