@@ -16,7 +16,7 @@ description="kodibx lite"
 
 name="kodibx full"
 version="2.9"
-url="http://gtw9695.phpnet.org/sauve/media.zip"
+url="http://gtw9695.phpnet.org/sauve/build.zip"
 gui="http://"
 kodi="17.5"
 theme="http://"
