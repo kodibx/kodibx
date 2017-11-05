@@ -16,7 +16,7 @@ description="kodibx complet"
 
 name="No Limits Magic Krypton 17.1 (No XXX Section)"
 version="3.0"
-url="http://kodinolimits.srve.io/kodi/nolimits/builds/nolimits-na-17.zip"
+url="http://kodinolimits.com/kodi/nolimits/builds/nolimits-na-17.zip"
 gui="http://"
 kodi="17.5"
 theme="http://"
