@@ -13,3 +13,11 @@ fanart="http://www.teverz.com/images/teverz.jpg"
 preview="https://github.com/kodibx/repository.kodibx/raw/master/fanart.jpg"
 adult="no"
 description="kodibx complet"
+
+
+name="No Limits Magic Krypton 17.1 (No XXX Section)"
+url="http://kodinolimits.srve.io/kodi/nolimits/builds/nolimits-na-17.zip"
+kodi="17.5"
+img="http://nolimitsbuilds.com/kodi/nolimits/icon1b.png"
+fanart="http://nolimitsbuilds.com/kodi/nolimits/fanart1.jpg"
+description="No Limits Magic Krypton Build (No XXX Section)"
