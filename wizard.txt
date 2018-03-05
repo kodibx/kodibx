@@ -33,7 +33,7 @@ adult="no"
 description="kodibx lite"
 
 name="kodibx full"
-version="3.2"
+version="3.0"
 url="http://lin1169.phpnet.org/sauve/build.zip"
 gui="http://"
 kodi="17.5"
