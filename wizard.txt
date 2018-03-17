@@ -46,7 +46,7 @@ description="kodibx complet"
 
 name="test french"
 version="3.0"
-url="https://archive.org/download/AresBackupBuildKTQ201803131111/ares_backup_build%20KTQ-2018-03-13_1111.zip"
+url="http://archive.org/download/AresBackupBuildKTQ201803131111/ares_backup_build%20KTQ-2018-03-13_1111.zip"
 gui="http://"
 kodi="17.5"
 theme="http://"
